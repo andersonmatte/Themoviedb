@@ -1,7 +1,4 @@
-### Olá, vcs poderam ver que meu foco maior foi em fazer o consumo(é preciso aprender a usar a API) da API https://www.themoviedb.org/. </br> Com o APP, funcional foquei em trazer logo os resultados para a tela. </br> Depois de tratar o retono da API meu maior foco, foi em renderizar as imagens e colocar(ao clique) os dados de cada filme na tela. </br> Mas sem dúvida meu maior objetivo foi fazer o player funcionar(demorei para saber que o youtube trabalha com a tabela de resolução de audio e vídeo). </br> Bom acabei deixando de lado a funcionalidade de favoritos(se eu fize-se eu iria utilizar o Realm, para salvar os dados dos favoritos, gosto desse banco) e pesquisa (esse demoraria, eu precisaria utilizar alguns edn points da API).
-
-### Nem todos os filmes tem vídeo, e algun tambem não tem descrição, então vou deixar 3 sugesões dos filmes que achei que tem vídeo(Halloween Kills, Jack o Stripador, e Mulher Maravilha 1984)
-
+## Aplicativo sobre filmes, usando a [API](https://developers.themoviedb.org/3/getting-started/introduction) do [TheMovieDB](https://www.themoviedb.org/?language=en).
 
 ### APK para baixar!!!!!!!!!![aqui!](https://github.com/andersonmatte/globoplay-desafio-mobile/blob/master/app/Globoplay.apk)</br>
 
